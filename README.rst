@@ -2,7 +2,7 @@
 CSV EXTRACTOR
 =============
 
-This is a CSV extractor that converts data to HTML. It uses D3.csv to first convert comma-separated values into an object literal, then iterates through to extract data. 
+This is a CSV extractor that converts data to HTML. It uses D3.csv to first convert comma-separated values into an object literal, then iterates through it to extract data. 
 
 Installation
 ============
@@ -23,7 +23,7 @@ Make sure you have the below source before the closing body tag of your index.ht
 ::
   <script src='https://d3js.org/d3.v4.min.js'></script>
 
-You can change the object literal indexes by going into js folder and editing the extractor.js of the for loop.
+Change the object literal indexes by going into js folder and editing the extractor.js indexes inside the for loop.
 
 Non-UTF Characters
 ==================
