@@ -4,7 +4,7 @@ CSV EXTRACTOR
 
 This is a CSV extractor that converts data to HTML. It uses D3.csv to first convert comma-separated values into an object literal, then iterates through to extract data. 
 
-To use it, you first need to put the below script before the closing body tag of your index.html file.
+To use it, make sure you copy the below source before the closing body tag of your index.html file.
 ::
   <script src='https://d3js.org/d3.v4.min.js'></script>
 
