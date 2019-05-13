@@ -28,4 +28,4 @@ You can change the object literal indexes by going into js folder and editing th
 Non-UTF Characters
 ==================
 
-If you encounter non-UTF character in your output, you may need to save your CSV file in UTF. You can do this in Notepad by simply saving it as a UTF encoded document.
+If you encounter non-UTF character in your output, you may need to resave your CSV file in UTF encoding. You can do this in Notepad by simply resaving it as a UTF encoded document.
