@@ -1,12 +1,12 @@
 {
   "name": "csvextractor",
   "version": "1.0.0",
-  "description": "=====================\r SPREADSHEET EXTRACTOR\r =====================",
+  "description": "A D3.js based CSV extractor that converts object literal data to HTML.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Joseph Bernadas",
   "license": "ISC",
   "dependencies": {
     "d3-fetch": "^1.1.2"

@@ -7,7 +7,15 @@ This is a CSV extractor that converts data to HTML. It uses D3.csv to first conv
 Installation
 ============
 
-To use it, make sure you have the below source before the closing body tag of your index.html file.
+Clone it:
+::
+  git clone git@github.com:jbernadas/csvExtractor.git
+
+Cd into the directory created:
+:: 
+  cd csvExtractor
+
+Make sure you have the below source before the closing body tag of your index.html file.
 ::
   <script src='https://d3js.org/d3.v4.min.js'></script>
 
