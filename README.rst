@@ -15,6 +15,10 @@ Cd into the directory created:
 :: 
   cd csvExtractor
 
+Install all dependencies with npm:
+:: 
+  npm install
+
 Make sure you have the below source before the closing body tag of your index.html file.
 ::
   <script src='https://d3js.org/d3.v4.min.js'></script>
